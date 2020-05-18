@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "An RPG ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roxyvaught/jest-another-RPG.git"
+  },
+  "keywords": [
+    "OOP",
+    "TDD",
+    "JavaScript",
+    "RPG"
+  ],
+  "author": "Roxanna Vaught-Mijares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roxyvaught/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/roxyvaught/jest-another-RPG#readme"
+}
